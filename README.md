@@ -1,3 +1,7 @@
+
+<div class=”entry-meta”><a class=”entry-date published”>December 7, 2016</a></div>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/23sfetwusn376/gdhetsy265/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
